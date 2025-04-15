@@ -10,7 +10,7 @@ A simple free soundcloud banner template with guides, clearance shapes, font ali
 - Text with indentation (as close as I could get to perfect)
   - The SoundCloud font is [Interstate](https://fonts.adobe.com/fonts/interstate)
 - Legend to identify which shape is used for what
-- 2 overlappting artboards (in the illustrator project), to make it easier to export both at the same time.
+- 2 overlapping artboards (in the illustrator project), to make it easier to export both at the same time.
 
 Since Illustrator is a vector graphics program, you can export at lots of different scales, without committing to the relatively small artboard size.
 
